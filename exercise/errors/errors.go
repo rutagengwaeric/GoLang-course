@@ -8,6 +8,7 @@
 //* Write some unit tests to check your work
 //  - Run tests with `go test ./exercise/errors`
 //
+
 //--Notes:
 //* Example time string: 14:07:33
 //* Use the `strings` package from stdlib to get time components
